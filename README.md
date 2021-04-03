@@ -16,7 +16,20 @@ Select a letter to figure out a hidden word in a set amount of chances
 - Show popup on win or lose
 - Play again button to reset game
 
-- Screenshots of the Game
+## Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Serve on localhost:3000
+npm start
+
+# Build for production
+npm run build
+```
+
+## Screenshots of the Game
 
 <p align="center">
   <img src="https://github.com/Akumar111/Hangman-Trivia/blob/main/public/1.jpeg?raw=true" />
