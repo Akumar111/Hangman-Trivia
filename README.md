@@ -15,3 +15,7 @@ Select a letter to figure out a hidden word in a set amount of chances
 - Show notification when select a letter twice
 - Show popup on win or lose
 - Play again button to reset game
+
+<p align="center">
+  <img src="https://github.com/Akumar111/Hangman-Trivia/blob/main/public/1.jpeg?raw=true" />
+<p/>
