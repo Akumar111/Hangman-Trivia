@@ -16,6 +16,17 @@ Select a letter to figure out a hidden word in a set amount of chances
 - Show popup on win or lose
 - Play again button to reset game
 
+- Screenshots of the Game
+
 <p align="center">
   <img src="https://github.com/Akumar111/Hangman-Trivia/blob/main/public/1.jpeg?raw=true" />
+<p/>
+<p align="center">
+  <img src="https://github.com/Akumar111/Hangman-Trivia/blob/main/public/2.jpeg?raw=true" />
+<p/>
+<p align="center">
+  <img src="https://github.com/Akumar111/Hangman-Trivia/blob/main/public/3.jpeg?raw=true" />
+<p/>
+<p align="center">
+  <img src="https://github.com/Akumar111/Hangman-Trivia/blob/main/public/4.jpeg?raw=true" />
 <p/>
