@@ -2,6 +2,8 @@
 
 Original code from [Brad Traversy](https://github.com/bradtraversy/vanillawebprojects/blob/master/hangman/). The original uses vanilla JavaScript. This has been convered into React.
 
+One can view this project here [Hangman Trivia](https://akumar111.github.io/Hangman-Trivia/)
+
 ## How To Play The Game
 
 Select a letter to figure out a hidden word in a set amount of chances
